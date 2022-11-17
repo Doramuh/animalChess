@@ -8,4 +8,4 @@
 
 >Choose piece by typing the name of the piece
 
->Choose the square to move to
+>Choose the square to move to the selected square
